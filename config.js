@@ -1,12 +1,12 @@
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
+global.owner = ['6285357196705']  
+global.mods = ['6285357196705'] 
+global.prems = ['6285357196705']
+global.nameowner = 'Zahid'
+global.numberowner = '6285357196705' 
 global.mail = 'support@tioprm.my.id' 
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
 global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.wm = '© Zahidl'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -14,11 +14,11 @@ global.packname = 'Made With'
 global.author = 'Bot WhatsApp'
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'YEAqpS8Y' 
 //Daftar terlebih dahulu https://api.botcahx.live
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'zyUfjebk'
 //Daftar https://api.betabotz.org 
 
 global.APIs = {   
